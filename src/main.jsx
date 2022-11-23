@@ -8,16 +8,16 @@ ReactDOM.createRoot(document.getElementById('root')).render(
      <div className='container'>
         <div className="container2">
     <div className='serab1'>
-      <h1>Name1</h1>
-<span><Wine title = {'adam'} description = 'gozel' rating = '5.5' /></span>
+      <h1>Merlot</h1>
+<span><Wine title = {'Germany'} description = 'pink' amount = '0.75' rating = {8.6} heart /></span>
 </div>
 <div className='serab2'>
-<h1>Name2</h1>
-<span><Wine title = {'adam2'} description = 'gozel2' rating = '5.6' /></span>
+<h1>Cabernet Sauvignon</h1>
+<span><Wine title = {'Japan'} description = 'red' amount = '0.8' rating = {5.7} /></span>
 </div>
 <div className='serab3'>
-<h1>Name3</h1>
-<span><Wine title = {'adam3'} description = 'gozel3' rating = '5.7' /></span>
+<h1>Airen</h1>
+<span><Wine title = {'Niderland'} description = 'white' amount = '0.5' rating = {7.9} heart /></span>
 </div>
     </div>
     </div>
